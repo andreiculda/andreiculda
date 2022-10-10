@@ -1,4 +1,9 @@
-### Hi there 👋
+###
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreiculda&theme=vue" />
+<img src="https://github-readme-stats.vercel.app/api?username=andreiculda" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiculda" />
+<img src="https://github-profile-trophy.vercel.app/?username=andreiculda" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 <!--
 **andreiculda/andreiculda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
